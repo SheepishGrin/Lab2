@@ -1,0 +1,10 @@
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\bin\Release\Lab2.exe.config
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\bin\Release\Lab2.exe
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\bin\Release\Lab2.pdb
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.csproj.AssemblyReference.cache
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.Form1.resources
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.Properties.Resources.resources
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.csproj.GenerateResource.cache
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.exe
+C:\Users\atel2\source\repos\C#\Lab2\Lab2\obj\Release\Lab2.pdb

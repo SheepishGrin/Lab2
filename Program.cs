@@ -41,7 +41,6 @@ class StackDemo
 		MyStack st;
 
     Main:
-		//MyStack st = new MyStack(100); Размер стека. При необходимости:
 		try
 		{
 			Console.WriteLine("Введите размер стека:");
@@ -88,26 +87,6 @@ class StackDemo
 			}
 		else { Error("Неверно введён вариант ответа"); goto Start; }
 	FormattingStack:
-        /*Console.Clear();
-		st = new MyStack(100);
-		Console.WriteLine("Ввод данных о стеке  (Нажмите Enter с пустым значением, чтобы завершить работу. Ввод стека до 100 значений)");
-		do
-		{
-			try
-			{
-				Console.Write("Введите значение: ");
-				str = Console.ReadLine();
-				if (str != "")
-				{
-					st.Push(Convert.ToInt32(str));
-				}
-			}
-			catch (OverflowException) { Console.WriteLine("Введено слишком большое значение значение! (максимум 2 147 483 647)"); continue; }
-			catch (FormatException) { Console.WriteLine("Введено неверное значение!"); continue; }
-			catch (IndexOutOfRangeException) { Console.WriteLine("Превышен лимит массива!"); goto Start; }
-		}
-		while (str != "");
-		Console.Clear();*/
         Console.Clear();
         StackRedactor(st);
 		goto Start;
@@ -277,3 +256,4 @@ class StackDemo
         Console.WriteLine(Error + "\n");
 	} 
 }
+
